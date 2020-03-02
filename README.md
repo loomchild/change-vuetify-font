@@ -2,6 +2,8 @@
 
 > A project demonstrating how to change fonts in Vuetify.js with Nuxt.js
 
+See my related article on [Medium](https://medium.com/untitled-factory/changing-default-font-in-vuetify-js-and-nuxt-js-3894e726ff10).
+
 ## Build Setup
 
 ``` bash
