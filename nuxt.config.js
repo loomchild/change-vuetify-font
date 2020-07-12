@@ -31,7 +31,8 @@ export default {
 
   vuetify: {
     customVariables: ['~/assets/variables.scss'],
-    treeShake: true
+    treeShake: true,
+    defaultAssets: false
   },
 
   build: {
