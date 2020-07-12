@@ -30,8 +30,12 @@ export default {
   ],
 
   vuetify: {
-    customVariables: ['~/assets/variables.scss'],
-    treeShake: true
+    treeShake: true,
+    defaultAssets: {
+      font: {
+        family: 'Libre Baskerville'
+      }
+    }
   },
 
   build: {
